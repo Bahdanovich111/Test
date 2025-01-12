@@ -2,7 +2,7 @@ import pygame
 import sys
 import random
 
-
+print("Some intresting words")
 # Инициализация Pygame
 pygame.init()
 
