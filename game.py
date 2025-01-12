@@ -21,7 +21,7 @@ jump_sound = pygame.mixer.Sound('jump.wav')
 enemy_sound = pygame.mixer.Sound('coin.wav')
 
 
-
+##54545
 
 # Классы
 class Player(pygame.sprite.Sprite):
