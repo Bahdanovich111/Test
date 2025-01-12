@@ -3,6 +3,8 @@ import sys
 import random
 
 print("Some intresting words")
+43578543785438754387543
+идфидфидф
 # Инициализация Pygame
 pygame.init()
 
