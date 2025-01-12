@@ -3,6 +3,7 @@ import sys
 import random
 
 print("Some intresting words")
+Я хочу мороженку
 43578543785438754387543
 идфидфидф
 # Инициализация Pygame
